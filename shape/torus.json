@@ -501,22 +501,22 @@
         {
           "boundaries": [
             [
-              [
-                0,
-                true
-              ],
-              [
-                1,
-                true
-              ],
-              [
-                2,
-                false
-              ],
-              [
-                3,
-                false
-              ]
+              {
+                "index": 0,
+                "orientation": true
+              },
+              {
+                "index": 1,
+                "orientation": true
+              },
+              {
+                "index": 2,
+                "orientation": false
+              },
+              {
+                "index": 3,
+                "orientation": false
+              }
             ]
           ],
           "orientation": true,
@@ -620,22 +620,22 @@
         {
           "boundaries": [
             [
-              [
-                4,
-                true
-              ],
-              [
-                3,
-                true
-              ],
-              [
-                5,
-                false
-              ],
-              [
-                1,
-                false
-              ]
+              {
+                "index": 4,
+                "orientation": true
+              },
+              {
+                "index": 3,
+                "orientation": true
+              },
+              {
+                "index": 5,
+                "orientation": false
+              },
+              {
+                "index": 1,
+                "orientation": false
+              }
             ]
           ],
           "orientation": true,
@@ -739,22 +739,22 @@
         {
           "boundaries": [
             [
-              [
-                2,
-                true
-              ],
-              [
-                6,
-                true
-              ],
-              [
-                0,
-                false
-              ],
-              [
-                7,
-                false
-              ]
+              {
+                "index": 2,
+                "orientation": true
+              },
+              {
+                "index": 6,
+                "orientation": true
+              },
+              {
+                "index": 0,
+                "orientation": false
+              },
+              {
+                "index": 7,
+                "orientation": false
+              }
             ]
           ],
           "orientation": true,
@@ -858,22 +858,22 @@
         {
           "boundaries": [
             [
-              [
-                5,
-                true
-              ],
-              [
-                7,
-                true
-              ],
-              [
-                4,
-                false
-              ],
-              [
-                6,
-                false
-              ]
+              {
+                "index": 5,
+                "orientation": true
+              },
+              {
+                "index": 7,
+                "orientation": true
+              },
+              {
+                "index": 4,
+                "orientation": false
+              },
+              {
+                "index": 6,
+                "orientation": false
+              }
             ]
           ],
           "orientation": true,

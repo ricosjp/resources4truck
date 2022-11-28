@@ -1473,22 +1473,22 @@
         {
           "boundaries": [
             [
-              [
-                0,
-                true
-              ],
-              [
-                1,
-                true
-              ],
-              [
-                2,
-                true
-              ],
-              [
-                3,
-                true
-              ]
+              {
+                "index": 0,
+                "orientation": true
+              },
+              {
+                "index": 1,
+                "orientation": true
+              },
+              {
+                "index": 2,
+                "orientation": true
+              },
+              {
+                "index": 3,
+                "orientation": true
+              }
             ]
           ],
           "orientation": false,
@@ -1605,22 +1605,22 @@
         {
           "boundaries": [
             [
-              [
-                0,
-                true
-              ],
-              [
-                4,
-                true
-              ],
-              [
-                5,
-                false
-              ],
-              [
-                6,
-                false
-              ]
+              {
+                "index": 0,
+                "orientation": true
+              },
+              {
+                "index": 4,
+                "orientation": true
+              },
+              {
+                "index": 5,
+                "orientation": false
+              },
+              {
+                "index": 6,
+                "orientation": false
+              }
             ]
           ],
           "orientation": true,
@@ -1737,22 +1737,22 @@
         {
           "boundaries": [
             [
-              [
-                1,
-                true
-              ],
-              [
-                7,
-                true
-              ],
-              [
-                8,
-                false
-              ],
-              [
-                4,
-                false
-              ]
+              {
+                "index": 1,
+                "orientation": true
+              },
+              {
+                "index": 7,
+                "orientation": true
+              },
+              {
+                "index": 8,
+                "orientation": false
+              },
+              {
+                "index": 4,
+                "orientation": false
+              }
             ]
           ],
           "orientation": true,
@@ -1779,22 +1779,22 @@
         {
           "boundaries": [
             [
-              [
-                2,
-                true
-              ],
-              [
-                9,
-                true
-              ],
-              [
-                10,
-                false
-              ],
-              [
-                7,
-                false
-              ]
+              {
+                "index": 2,
+                "orientation": true
+              },
+              {
+                "index": 9,
+                "orientation": true
+              },
+              {
+                "index": 10,
+                "orientation": false
+              },
+              {
+                "index": 7,
+                "orientation": false
+              }
             ]
           ],
           "orientation": true,
@@ -1911,22 +1911,22 @@
         {
           "boundaries": [
             [
-              [
-                3,
-                true
-              ],
-              [
-                6,
-                true
-              ],
-              [
-                11,
-                false
-              ],
-              [
-                9,
-                false
-              ]
+              {
+                "index": 3,
+                "orientation": true
+              },
+              {
+                "index": 6,
+                "orientation": true
+              },
+              {
+                "index": 11,
+                "orientation": false
+              },
+              {
+                "index": 9,
+                "orientation": false
+              }
             ]
           ],
           "orientation": true,
@@ -1953,32 +1953,32 @@
         {
           "boundaries": [
             [
-              [
-                5,
-                true
-              ],
-              [
-                8,
-                true
-              ],
-              [
-                10,
-                true
-              ],
-              [
-                11,
-                true
-              ]
+              {
+                "index": 5,
+                "orientation": true
+              },
+              {
+                "index": 8,
+                "orientation": true
+              },
+              {
+                "index": 10,
+                "orientation": true
+              },
+              {
+                "index": 11,
+                "orientation": true
+              }
             ],
             [
-              [
-                12,
-                false
-              ],
-              [
-                13,
-                false
-              ]
+              {
+                "index": 12,
+                "orientation": false
+              },
+              {
+                "index": 13,
+                "orientation": false
+              }
             ]
           ],
           "orientation": true,
@@ -2095,22 +2095,22 @@
         {
           "boundaries": [
             [
-              [
-                13,
-                true
-              ],
-              [
-                14,
-                true
-              ],
-              [
-                15,
-                false
-              ],
-              [
-                16,
-                false
-              ]
+              {
+                "index": 13,
+                "orientation": true
+              },
+              {
+                "index": 14,
+                "orientation": true
+              },
+              {
+                "index": 15,
+                "orientation": false
+              },
+              {
+                "index": 16,
+                "orientation": false
+              }
             ]
           ],
           "orientation": true,
@@ -2227,22 +2227,22 @@
         {
           "boundaries": [
             [
-              [
-                12,
-                true
-              ],
-              [
-                16,
-                true
-              ],
-              [
-                17,
-                false
-              ],
-              [
-                14,
-                false
-              ]
+              {
+                "index": 12,
+                "orientation": true
+              },
+              {
+                "index": 16,
+                "orientation": true
+              },
+              {
+                "index": 17,
+                "orientation": false
+              },
+              {
+                "index": 14,
+                "orientation": false
+              }
             ]
           ],
           "orientation": true,
@@ -2359,24 +2359,24 @@
         {
           "boundaries": [
             [
-              [
-                15,
-                true
-              ],
-              [
-                17,
-                true
-              ]
+              {
+                "index": 15,
+                "orientation": true
+              },
+              {
+                "index": 17,
+                "orientation": true
+              }
             ],
             [
-              [
-                18,
-                false
-              ],
-              [
-                19,
-                false
-              ]
+              {
+                "index": 18,
+                "orientation": false
+              },
+              {
+                "index": 19,
+                "orientation": false
+              }
             ]
           ],
           "orientation": true,
@@ -2403,22 +2403,22 @@
         {
           "boundaries": [
             [
-              [
-                20,
-                true
-              ],
-              [
-                21,
-                true
-              ],
-              [
-                22,
-                true
-              ],
-              [
-                23,
-                true
-              ]
+              {
+                "index": 20,
+                "orientation": true
+              },
+              {
+                "index": 21,
+                "orientation": true
+              },
+              {
+                "index": 22,
+                "orientation": true
+              },
+              {
+                "index": 23,
+                "orientation": true
+              }
             ]
           ],
           "orientation": true,
@@ -2535,22 +2535,22 @@
         {
           "boundaries": [
             [
-              [
-                20,
-                true
-              ],
-              [
-                24,
-                true
-              ],
-              [
-                25,
-                false
-              ],
-              [
-                26,
-                false
-              ]
+              {
+                "index": 20,
+                "orientation": true
+              },
+              {
+                "index": 24,
+                "orientation": true
+              },
+              {
+                "index": 25,
+                "orientation": false
+              },
+              {
+                "index": 26,
+                "orientation": false
+              }
             ]
           ],
           "orientation": false,
@@ -2667,22 +2667,22 @@
         {
           "boundaries": [
             [
-              [
-                21,
-                true
-              ],
-              [
-                27,
-                true
-              ],
-              [
-                28,
-                false
-              ],
-              [
-                24,
-                false
-              ]
+              {
+                "index": 21,
+                "orientation": true
+              },
+              {
+                "index": 27,
+                "orientation": true
+              },
+              {
+                "index": 28,
+                "orientation": false
+              },
+              {
+                "index": 24,
+                "orientation": false
+              }
             ]
           ],
           "orientation": false,
@@ -2709,22 +2709,22 @@
         {
           "boundaries": [
             [
-              [
-                22,
-                true
-              ],
-              [
-                29,
-                true
-              ],
-              [
-                30,
-                false
-              ],
-              [
-                27,
-                false
-              ]
+              {
+                "index": 22,
+                "orientation": true
+              },
+              {
+                "index": 29,
+                "orientation": true
+              },
+              {
+                "index": 30,
+                "orientation": false
+              },
+              {
+                "index": 27,
+                "orientation": false
+              }
             ]
           ],
           "orientation": false,
@@ -2841,22 +2841,22 @@
         {
           "boundaries": [
             [
-              [
-                23,
-                true
-              ],
-              [
-                26,
-                true
-              ],
-              [
-                31,
-                false
-              ],
-              [
-                29,
-                false
-              ]
+              {
+                "index": 23,
+                "orientation": true
+              },
+              {
+                "index": 26,
+                "orientation": true
+              },
+              {
+                "index": 31,
+                "orientation": false
+              },
+              {
+                "index": 29,
+                "orientation": false
+              }
             ]
           ],
           "orientation": false,
@@ -2883,32 +2883,32 @@
         {
           "boundaries": [
             [
-              [
-                25,
-                true
-              ],
-              [
-                28,
-                true
-              ],
-              [
-                30,
-                true
-              ],
-              [
-                31,
-                true
-              ]
+              {
+                "index": 25,
+                "orientation": true
+              },
+              {
+                "index": 28,
+                "orientation": true
+              },
+              {
+                "index": 30,
+                "orientation": true
+              },
+              {
+                "index": 31,
+                "orientation": true
+              }
             ],
             [
-              [
-                32,
-                false
-              ],
-              [
-                33,
-                false
-              ]
+              {
+                "index": 32,
+                "orientation": false
+              },
+              {
+                "index": 33,
+                "orientation": false
+              }
             ]
           ],
           "orientation": false,
@@ -3025,22 +3025,22 @@
         {
           "boundaries": [
             [
-              [
-                33,
-                true
-              ],
-              [
-                34,
-                true
-              ],
-              [
-                19,
-                false
-              ],
-              [
-                35,
-                false
-              ]
+              {
+                "index": 33,
+                "orientation": true
+              },
+              {
+                "index": 34,
+                "orientation": true
+              },
+              {
+                "index": 19,
+                "orientation": false
+              },
+              {
+                "index": 35,
+                "orientation": false
+              }
             ]
           ],
           "orientation": false,
@@ -3157,22 +3157,22 @@
         {
           "boundaries": [
             [
-              [
-                32,
-                true
-              ],
-              [
-                35,
-                true
-              ],
-              [
-                18,
-                false
-              ],
-              [
-                34,
-                false
-              ]
+              {
+                "index": 32,
+                "orientation": true
+              },
+              {
+                "index": 35,
+                "orientation": true
+              },
+              {
+                "index": 18,
+                "orientation": false
+              },
+              {
+                "index": 34,
+                "orientation": false
+              }
             ]
           ],
           "orientation": false,
