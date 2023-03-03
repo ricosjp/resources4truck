@@ -30,7 +30,7 @@
             1
           ],
           "curve": {
-            "NURBSCurve": {
+            "NurbsCurve": {
               "knot_vec": [
                 0.0,
                 0.0,
@@ -89,7 +89,7 @@
             2
           ],
           "curve": {
-            "NURBSCurve": {
+            "NurbsCurve": {
               "knot_vec": [
                 0.0,
                 0.0,
@@ -148,7 +148,7 @@
             2
           ],
           "curve": {
-            "NURBSCurve": {
+            "NurbsCurve": {
               "knot_vec": [
                 0.0,
                 0.0,
@@ -207,7 +207,7 @@
             3
           ],
           "curve": {
-            "NURBSCurve": {
+            "NurbsCurve": {
               "knot_vec": [
                 0.0,
                 0.0,
@@ -266,7 +266,7 @@
             0
           ],
           "curve": {
-            "NURBSCurve": {
+            "NurbsCurve": {
               "knot_vec": [
                 0.0,
                 0.0,
@@ -325,7 +325,7 @@
             3
           ],
           "curve": {
-            "NURBSCurve": {
+            "NurbsCurve": {
               "knot_vec": [
                 0.0,
                 0.0,
@@ -384,7 +384,7 @@
             1
           ],
           "curve": {
-            "NURBSCurve": {
+            "NurbsCurve": {
               "knot_vec": [
                 0.0,
                 0.0,
@@ -443,7 +443,7 @@
             0
           ],
           "curve": {
-            "NURBSCurve": {
+            "NurbsCurve": {
               "knot_vec": [
                 0.0,
                 0.0,
@@ -524,7 +524,7 @@
             "RevolutedCurve": {
               "entity": {
                 "curve": {
-                  "NURBSCurve": {
+                  "NurbsCurve": {
                     "knot_vec": [
                       0.0,
                       0.0,
@@ -643,7 +643,7 @@
             "RevolutedCurve": {
               "entity": {
                 "curve": {
-                  "NURBSCurve": {
+                  "NurbsCurve": {
                     "knot_vec": [
                       0.0,
                       0.0,
@@ -762,7 +762,7 @@
             "RevolutedCurve": {
               "entity": {
                 "curve": {
-                  "NURBSCurve": {
+                  "NurbsCurve": {
                     "knot_vec": [
                       0.0,
                       0.0,
@@ -881,7 +881,7 @@
             "RevolutedCurve": {
               "entity": {
                 "curve": {
-                  "NURBSCurve": {
+                  "NurbsCurve": {
                     "knot_vec": [
                       0.0,
                       0.0,

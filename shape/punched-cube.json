@@ -170,7 +170,7 @@
             5
           ],
           "curve": {
-            "NURBSCurve": {
+            "NurbsCurve": {
               "knot_vec": [
                 0.0,
                 0.0,
@@ -249,7 +249,7 @@
             6
           ],
           "curve": {
-            "NURBSCurve": {
+            "NurbsCurve": {
               "knot_vec": [
                 0.0,
                 0.0,
@@ -508,7 +508,7 @@
             12
           ],
           "curve": {
-            "NURBSCurve": {
+            "NurbsCurve": {
               "knot_vec": [
                 0.0,
                 0.0,
@@ -627,7 +627,7 @@
             14
           ],
           "curve": {
-            "NURBSCurve": {
+            "NurbsCurve": {
               "knot_vec": [
                 0.0,
                 0.0,
@@ -973,7 +973,7 @@
           ],
           "orientation": false,
           "surface": {
-            "NURBSSurface": {
+            "NurbsSurface": {
               "knot_vecs": [
                 [
                   0.0,
@@ -1147,7 +1147,7 @@
           ],
           "orientation": false,
           "surface": {
-            "NURBSSurface": {
+            "NurbsSurface": {
               "knot_vecs": [
                 [
                   0.0,

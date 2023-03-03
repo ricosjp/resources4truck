@@ -130,7 +130,7 @@
             1
           ],
           "curve": {
-            "NURBSCurve": {
+            "NurbsCurve": {
               "knot_vec": [
                 0.0,
                 0.0,
@@ -209,7 +209,7 @@
             3
           ],
           "curve": {
-            "NURBSCurve": {
+            "NurbsCurve": {
               "knot_vec": [
                 0.0,
                 0.0,
@@ -308,7 +308,7 @@
             4
           ],
           "curve": {
-            "NURBSCurve": {
+            "NurbsCurve": {
               "knot_vec": [
                 0.0,
                 0.0,
@@ -447,7 +447,7 @@
             7
           ],
           "curve": {
-            "NURBSCurve": {
+            "NurbsCurve": {
               "knot_vec": [
                 0.0,
                 0.0,
@@ -526,7 +526,7 @@
             9
           ],
           "curve": {
-            "NURBSCurve": {
+            "NurbsCurve": {
               "knot_vec": [
                 0.0,
                 0.0,
@@ -585,7 +585,7 @@
             8
           ],
           "curve": {
-            "NURBSCurve": {
+            "NurbsCurve": {
               "knot_vec": [
                 0.0,
                 0.0,
@@ -664,7 +664,7 @@
             10
           ],
           "curve": {
-            "NURBSCurve": {
+            "NurbsCurve": {
               "knot_vec": [
                 0.0,
                 0.0,
@@ -743,7 +743,7 @@
             11
           ],
           "curve": {
-            "NURBSCurve": {
+            "NurbsCurve": {
               "knot_vec": [
                 0.0,
                 0.0,
@@ -802,7 +802,7 @@
             13
           ],
           "curve": {
-            "NURBSCurve": {
+            "NurbsCurve": {
               "knot_vec": [
                 0.0,
                 0.0,
@@ -861,7 +861,7 @@
             12
           ],
           "curve": {
-            "NURBSCurve": {
+            "NurbsCurve": {
               "knot_vec": [
                 0.0,
                 0.0,
@@ -920,7 +920,7 @@
             15
           ],
           "curve": {
-            "NURBSCurve": {
+            "NurbsCurve": {
               "knot_vec": [
                 0.0,
                 0.0,
@@ -999,7 +999,7 @@
             17
           ],
           "curve": {
-            "NURBSCurve": {
+            "NurbsCurve": {
               "knot_vec": [
                 0.0,
                 0.0,
@@ -1098,7 +1098,7 @@
             18
           ],
           "curve": {
-            "NURBSCurve": {
+            "NurbsCurve": {
               "knot_vec": [
                 0.0,
                 0.0,
@@ -1237,7 +1237,7 @@
             21
           ],
           "curve": {
-            "NURBSCurve": {
+            "NurbsCurve": {
               "knot_vec": [
                 0.0,
                 0.0,
@@ -1316,7 +1316,7 @@
             23
           ],
           "curve": {
-            "NURBSCurve": {
+            "NurbsCurve": {
               "knot_vec": [
                 0.0,
                 0.0,
@@ -1375,7 +1375,7 @@
             22
           ],
           "curve": {
-            "NURBSCurve": {
+            "NurbsCurve": {
               "knot_vec": [
                 0.0,
                 0.0,
@@ -1493,7 +1493,7 @@
           ],
           "orientation": false,
           "surface": {
-            "NURBSSurface": {
+            "NurbsSurface": {
               "knot_vecs": [
                 [
                   0.0,
@@ -1625,7 +1625,7 @@
           ],
           "orientation": true,
           "surface": {
-            "NURBSSurface": {
+            "NurbsSurface": {
               "knot_vecs": [
                 [
                   0.0,
@@ -1799,7 +1799,7 @@
           ],
           "orientation": true,
           "surface": {
-            "NURBSSurface": {
+            "NurbsSurface": {
               "knot_vecs": [
                 [
                   0.0,
@@ -1983,7 +1983,7 @@
           ],
           "orientation": true,
           "surface": {
-            "NURBSSurface": {
+            "NurbsSurface": {
               "knot_vecs": [
                 [
                   0.0,
@@ -2115,7 +2115,7 @@
           ],
           "orientation": true,
           "surface": {
-            "NURBSSurface": {
+            "NurbsSurface": {
               "knot_vecs": [
                 [
                   0.0,
@@ -2247,7 +2247,7 @@
           ],
           "orientation": true,
           "surface": {
-            "NURBSSurface": {
+            "NurbsSurface": {
               "knot_vecs": [
                 [
                   0.0,
@@ -2389,12 +2389,12 @@
               },
               "p": {
                 "x": 0.15000000000000002,
-                "y": 1.5399999999999996,
+                "y": 1.54,
                 "z": 0.15
               },
               "q": {
                 "x": -0.15000000000000005,
-                "y": 1.5399999999999996,
+                "y": 1.539999999999999,
                 "z": -0.15
               }
             }
@@ -2423,7 +2423,7 @@
           ],
           "orientation": true,
           "surface": {
-            "NURBSSurface": {
+            "NurbsSurface": {
               "knot_vecs": [
                 [
                   0.0,
@@ -2555,7 +2555,7 @@
           ],
           "orientation": false,
           "surface": {
-            "NURBSSurface": {
+            "NurbsSurface": {
               "knot_vecs": [
                 [
                   0.0,
@@ -2729,7 +2729,7 @@
           ],
           "orientation": false,
           "surface": {
-            "NURBSSurface": {
+            "NurbsSurface": {
               "knot_vecs": [
                 [
                   0.0,
@@ -2913,7 +2913,7 @@
           ],
           "orientation": false,
           "surface": {
-            "NURBSSurface": {
+            "NurbsSurface": {
               "knot_vecs": [
                 [
                   0.0,
@@ -3045,7 +3045,7 @@
           ],
           "orientation": false,
           "surface": {
-            "NURBSSurface": {
+            "NurbsSurface": {
               "knot_vecs": [
                 [
                   0.0,
@@ -3177,7 +3177,7 @@
           ],
           "orientation": false,
           "surface": {
-            "NURBSSurface": {
+            "NurbsSurface": {
               "knot_vecs": [
                 [
                   0.0,
