@@ -12,5 +12,7 @@ Resources in this repository is for testing and examples of truck.
 [Pony Cartoon](https://sketchfab.com/3d-models/pony-cartoon-885d9f60b3a9429bb4077cfac5653cf9) - CC Attribution © Slava Z.
 
 - texture/WoodFloor024_1K_Color.png  
-from https://ambientcg.com/view?id=WoodFloor024, licensed under CC0 1.0 Universal.
+from [https://ambientcg.com/view?id=WoodFloor024](https://ambientcg.com/view?id=WoodFloor024), licensed under CC0 1.0 Universal.
 
+- step/abc-\*\*\*\*.step
+from [abc dataset](https://deep-geometry.github.io/abc-dataset/), distributed under MIT Lisence.
